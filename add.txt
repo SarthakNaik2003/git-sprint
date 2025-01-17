@@ -1,0 +1,31 @@
+ git add . to add change in staged area
+
+ git commit -m "commit msg" to commit change in final local repo to push in remote 
+
+ git status: Check the status of changes. 
+ 
+ git branch: Manage branches. 
+ 
+ git checkout [branch-name]: Switch branches. 
+ 
+ git merge [branch]: Merge branches. 
+ 
+ git remote add [variable name] [Remote Server Link]: Connect to a 
+ remote repository. 
+ 
+ git push [variable name] [branch]: Push changes to a remote repository. 
+ 
+ git pull: Fetch and merge changes from a remote repository. 
+ 
+ git log: Display commit logs. 
+ 
+ git fetch [remote]: Download changes from a remote repository. 
+ 
+ git reset [file]: Unstage changes. 
+ 
+ git diff: Show changes between commits, commit and working tree, etc. 
+ 
+ git config --global user.name "[name]": Set a name for Git user. 
+ 
+ git config --global user.email "[email address]": Set an email for Git 
+ user.
