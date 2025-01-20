@@ -6,12 +6,8 @@ chnage
 first text file created 
 
 bug fould in one 
-<<<<<<< HEAD
-change from bug-fix
-=======
 
 
 change from remoteeeeeeeeeee
 e
 
->>>>>>> origin
