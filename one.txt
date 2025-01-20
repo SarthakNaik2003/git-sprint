@@ -3,4 +3,4 @@ first text file created
 bug fould in one 
 
 
-change from remote
+chnage from local
